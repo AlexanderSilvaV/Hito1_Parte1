@@ -7,3 +7,11 @@ complejos y multifactoriales. La esencia de este modelo reside en su estrategia 
 la cual consiste en entrenar múltiples árboles sobre diferentes subconjuntos aleatorios del 
 conjunto de datos y luego combinar sus predicciones de manera que se reduzca la varianza, 
 se mitigue el sobreajuste y se incremente la robustez de las predicciones.
+
+alumnos.
+
+Tomas Olave 
+Javier Silva
+Juan Rojas
+Nicolas Aros
+
